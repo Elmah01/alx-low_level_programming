@@ -1,6 +1,10 @@
 #include "main.h"
-#include <stdio.h>
-#include <stdlib.h>
+#include <stdio>
+#include <stdlib>
+#include <stdio>
+#include <stdlib>
+#include <stdio>
+#include <stdlib>
 
 char *str_concat(char *s1, char *s2)
 {
